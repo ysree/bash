@@ -1,6 +1,6 @@
 The following table shows a number of special variables that you can use in your shell scripts −
 
->Bash Variable & Description
+>Bash Variables & Description
 
 1.  $0    - The filename of the current script.
 
