@@ -1,6 +1,6 @@
 The following table shows a number of special variables that you can use in your shell scripts −
 
-##Variable & Description
+#Variable & Description
 1.  $0    - The filename of the current script.
 
 1.  $n    - These variables correspond to the arguments with which a script was invoked. 
